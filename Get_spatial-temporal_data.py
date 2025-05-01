@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # 设置Entrez邮箱
-Entrez.email = "3331606993@qq.com"
+Entrez.email = #"yourmail.com"
 
 # 定义搜索条件
 tax_id = "39054"
