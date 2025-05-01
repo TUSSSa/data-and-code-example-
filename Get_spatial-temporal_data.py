@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # Set Entrez email
-Entrez.email = "3331606993@qq.com"
+Entrez.email = "your_address.com"
 
 # Define search criteria
 tax_id = "39054"
